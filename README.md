@@ -1,2 +1,2 @@
 # School-tings
-School work
+School work tings. We be doing weird projects
